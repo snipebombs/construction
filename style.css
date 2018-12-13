@@ -11,14 +11,14 @@ h1  {
     }
     
     th {
-       padding: 3px;
+       padding: 8px;
        border: 1px solid #110960;
       color:#991769
     }
     
     td {
        padding-left: 15px;
-       padding-right: 10px;
+       padding-right: 15px;
        border: 1px solid #683440;
        background-color: pink;\
       color: #468478
